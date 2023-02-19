@@ -1,7 +1,7 @@
 import os
 from pypinyin import pinyin, lazy_pinyin
-
-#一层文件
+# 将病例文件中文名改成拼音
+# 一层文件
 def rename():
     path = r"E:\Prostate-JD2-BPH"
     filelist = os.listdir(path)  # 该文件夹下所有的文件（包括文件夹）
