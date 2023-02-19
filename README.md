@@ -1,2 +1,2 @@
 # AI_in_Medical
-radiomics and deep learing in medical image processing
+Radiomics and Deep Learing in Medical Image Processing
